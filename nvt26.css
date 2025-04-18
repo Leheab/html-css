@@ -1,11 +1,19 @@
-h1 { color: chartreuse;
+.titulo-01{
+    color: rgb(252, 6, 6);
+}
+
+.titulo-02{
+    color: chartreuse;
     background-color: blueviolet;
-
 }
-div { width: 300px;
 
+.titulo-03{
+    color: blueviolet;
+    background-color: chartreuse;
 }
-h3 {
-    color: chocolate;
-    background-color: crimson;
+
+#titulo-03{
+    color: rgb(252, 5, 5);
+    background-color: yellow;
+
 }
