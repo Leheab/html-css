@@ -1,0 +1,43 @@
+.botoes{
+    width: 500px;
+    border: 2px solid black;
+    display: flex;
+    gap: 20px;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+}
+
+.botao-padrao{
+    width: 250px;
+    height: 50px;
+    background-color: burlywood;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Gill Sans';
+    cursor: pointer;
+    border-radius: 10px;
+    border: 2px solid black;
+}
+.botao-01:hover{
+background-color: aquamarine;
+border: 2px solid blueviolet;
+transition: 1s;
+}
+
+.botao-02:hover{
+    width: 350px;
+    transition: 1s;
+    }
+
+.botao-03:hover{
+    box-shadow: 2px 5px 15px rgb(209, 212, 16);
+    transition: 0.5s;
+}
+
+.botao-04:hover{
+    width: 260px;
+    height: 55px;
+    transition: 0.3s;
+}

@@ -1,0 +1,19 @@
+.titulo-01{
+    color: rgb(252, 6, 6);
+}
+
+.titulo-02{
+    color: chartreuse;
+    background-color: blueviolet;
+}
+
+.titulo-03{
+    color: blueviolet;
+    background-color: chartreuse;
+}
+
+#titulo-03{
+    color: rgb(252, 5, 5);
+    background-color: yellow;
+
+}
